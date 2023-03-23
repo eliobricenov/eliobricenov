@@ -6,7 +6,7 @@ My name is Elio. I am a software engineer with a focus on web3.
 
 - 💻 I am currently working as a Sr. Web3 Engineer at [dOrg](https://dorg.tech).
 
-- 🧠 I am always looking to collaborate in exciting web3 projects. React out to me if you have an idea.
+- 🧠 I am always looking to collaborate in exciting web3 projects. Reach out to me if you have an idea.
 
 - 🎵 I love music. You can always find me enjoying new jams.
 
