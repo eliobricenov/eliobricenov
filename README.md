@@ -4,7 +4,7 @@ My name is Elio. I am a software engineer with a focus on web3.
 
 ## 💭 About Me
 
-- 💻 I'm an Engineer at [HyperPlay](https://www.hyperplay.xyz/).
+- 💻 I'm an Engineer at [Eco](https://eco.com).
 
 - 🧠 I am always looking to collaborate on exciting web3 projects. Reach out to me if you have an idea.
 
